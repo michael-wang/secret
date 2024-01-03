@@ -4,5 +4,5 @@ Collection of tools I made.
 
 Secret generates randomized string with assigned length:
 
-- `go build ./cmd/secret`
+- `go build .`
 - `./secret -l 64`
